@@ -1,28 +1,18 @@
-name: origin
-favicon: null
-layout_spectrum: 0.11665310291573405
-typography_spectrum: 0.39871151954866946
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.42096281866542995
-  lightness: 0.3036079837474972
-  saturation: 0.8755757538601756
-  rhythmicContrast: 0.27613550005480647
+    - '#f1efd7'
+    - '#5a3d7d'
+    - '#43708b'
+    - '#fcc253'
+    - '#2fe1e1'
+  brandStrength: 0
+  lightness: 0.5625
+  rhythmicContrast: 1
+  saturation: 0.0625
+cta: {}
+layout_spectrum: 1
+name: origin
+opengraph: {}
 purpose: []
+typography_spectrum: 0.48554
