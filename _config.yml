@@ -1,0 +1,28 @@
+name: origin
+favicon: null
+layout_spectrum: 0.11665310291573405
+typography_spectrum: 0.39871151954866946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#313a28'
+    - '#e6e8e7'
+    - '#586555'
+    - '#939487'
+    - '#abada2'
+  brandStrength: 0.42096281866542995
+  lightness: 0.3036079837474972
+  saturation: 0.8755757538601756
+  rhythmicContrast: 0.27613550005480647
+purpose: []
