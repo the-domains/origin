@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#f1efd7'
-    - '#5a3d7d'
-    - '#43708b'
-    - '#fcc253'
-    - '#2fe1e1'
+    - '#F1EFD7'
+    - '#5A3D7D'
+    - '#43708B'
+    - '#FCC253'
+    - '#2FE1E1'
   brandStrength: 0
-  lightness: 0.5625
-  rhythmicContrast: 1
-  saturation: 0.0625
+  lightness: 0.508446
+  rhythmicContrast: 0.494932
+  saturation: 0.97973
 cta: {}
 layout_spectrum: 1
 name: origin
